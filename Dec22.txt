@@ -5,3 +5,4 @@ list:
 1.connenct db with backend(flask)
 2.make a login api
 3.commit on git
+4. shopping for coxbazar(around 7 pm)
