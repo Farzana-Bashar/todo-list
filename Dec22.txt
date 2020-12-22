@@ -1,0 +1,7 @@
+
+today is the first day at github
+
+list:
+1.connenct db with backend(flask)
+2.make a login api
+3.commit on git
